@@ -18,3 +18,11 @@ My dataset includes:
 ***Population***: One of the main data I use is population. Our dataset includes population of each country between 2017 and 2022. What is the effect of population change on GDP ?
 
 ***GDP***: GDP shows economical data of each country for every year. So, my main focus is GDP. 
+
+# Source
+
+My source of datasets are here :
+
+https://www.kaggle.com/datasets/alejopaullier/-gdp-by-country-1999-2022
+
+https://github.com/datasets/population
