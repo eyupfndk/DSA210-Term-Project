@@ -4,7 +4,7 @@ I am Eyüp Fındık from Sabancı University. Here is my DSA210 project. My proj
 
 
 # Objectives
-Everyone knows there is a relationship between GDP and population. 
+Everyone knows there is a relationship between GDP and population. Population and GDP changes every year. My aim is demonstrate relationship between change of population and GDP.
 
 # Dataset
 My dataset includes:
