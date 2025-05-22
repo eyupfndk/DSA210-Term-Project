@@ -39,6 +39,10 @@ Exploration produced by distribution plots, and a correlation heat map.
 
 ## Limitations & Future Work
 
+There is some limitations and possible developments in my project. 
+
+These are :
+
 - Single year results capture correlation, not causation, and ignore year to year dynamics.
 
 - Omitted variables like education quality, environmental metrics, inequality, and cultural factors could refine the picture.
