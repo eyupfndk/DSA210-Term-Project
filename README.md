@@ -9,7 +9,7 @@ Global “happiness” scores are now widely used by governments and NGOs as a s
 
 Dataset includes 135 countries, 10 variables: Happiness score (target) plus GDP per capita, social support, healthy life expectancy, freedom of choice, generosity, perceived corruption, and unemployment rate.
 
-Exploration produced by distribution plots, and a correlation heat-map.
+Exploration produced by distribution plots, and a correlation heat map.
 
 
 
