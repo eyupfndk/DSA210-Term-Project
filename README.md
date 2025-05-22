@@ -34,9 +34,9 @@ Single year results capture correlation, not causation, and ignore year to year 
 
 Omitted variables like education quality, environmental metrics, inequality, and cultural factors could refine the picture.
 
-Next steps could be to expand to a 10 year panel, test causal paths with fixed effects models or instrumental variables, and build an interactive dashboard that lets users explore “what-if” policy scenarios (e.g., how a 2 % drop in unemployment might lift national happiness).
+Next steps could be to expand to a 10 year panel, test causal paths with fixed effects models or instrumental variables, and build an interactive dashboard that lets users explore “what if” policy scenarios.
 
-This overview sets the stage for a data-driven conversation about how economic and social policies translate into everyday well-being. 
+This overview sets the stage for a data driven conversation about how economic and social policies translate into everyday well being. 
 
 
 ## Objectives
