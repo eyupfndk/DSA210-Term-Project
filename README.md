@@ -4,7 +4,7 @@
 
 ## Motivation
 
-Global “happiness” scores are now widely used by governments and NGOs as a shorthand for quality of life, yet the drivers of national well being are still debated. By combining the latest World Happiness Report data with basic labour-market information (unemployment rates) we aim to quantify which socioeconomic factors most strongly track a country’s average life satisfaction and highlight levers that policy-makers can realistically pull.
+Global “happiness” scores are now widely used by governments and NGOs as a shorthand for quality of life, yet the drivers of national well being are still debated. By combining the latest World Happiness Report data with basic labour market information (unemployment rates) we aim to quantify which socioeconomic factors most strongly track a country’s average life satisfaction and highlight levers that policy makers can realistically pull.
 
 
 ## Data & Analysis Pipeline
