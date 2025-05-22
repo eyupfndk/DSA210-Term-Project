@@ -9,7 +9,6 @@ Global “happiness” scores are now widely used by governments and NGOs as a s
 
 Dataset includes 135 countries, 10 variables: Happiness score (target) plus GDP per capita, social support, healthy life expectancy, freedom of choice, generosity, perceived corruption, and unemployment rate.
 
-
 Exploration produced by distribution plots, and a correlation heat-map.
 
 
@@ -28,6 +27,7 @@ Joblessness erodes well-being. Unemployment rate is the only factor with a clear
 
 Cluster analysis reveals four broad “happiness archetypes,” separating high income/high support nations from low income, high unemployment peers.
 
+
 ## Limitations & Future Work
 
 Single year results capture correlation, not causation, and ignore year to year dynamics.
@@ -41,9 +41,6 @@ This overview sets the stage for a data-driven conversation about how economic a
 
 ## Objectives
 Main aim of my project is demonstrate what is most important to be happy.
-
-# Dataset
-My dataset includes:
 
 
 # Source
